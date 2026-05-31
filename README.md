@@ -1,16 +1,14 @@
 <div align="center">
 
-# Nguyễn Văn A
+# Khanh Tran Quoc[cite: 1]
 
-Backend Engineer • Cloud Enthusiast • Open Source Contributor
+Fullstack Engineer • DeFi & AI Integration Enthusiast • Problem Solver[cite: 1]
 
-Building scalable systems and practical software solutions.
+Building robust web applications, RESTful APIs, and SaaS platforms[cite: 1].
 
-[LinkedIn](https://linkedin.com/in/your-linkedin)
+[LinkedIn](https://linkedin.com/in/your-linkedin-username)
 •
-[Portfolio](https://your-website.com)
-•
-[Email](mailto:hello@example.com)
+[Email](mailto:khanhtranquoc.dev@gmail.com)[cite: 1]
 
 </div>
 
@@ -18,72 +16,71 @@ Building scalable systems and practical software solutions.
 
 ## About Me
 
-I'm a software engineer focused on building reliable backend services,
-cloud-native applications, and developer tooling.
+I'm a Fullstack Engineer with a solid foundation in Computer Science from Ho Chi Minh City University of Technology[cite: 1]. I specialize in building reliable web applications, integrating AI services, and auditing DeFi smart contracts[cite: 1].
 
-- 💼 Backend & Platform Engineering
-- ☁️ Cloud Infrastructure & DevOps
-- 🤖 AI-powered Applications
-- 🌏 Based in Vietnam
+- 🎓 Computer Science student at HCMUT (Expected Jul 2026)[cite: 1]
+- 💼 Experienced in Fullstack Engineering (React.js, Next.js, NestJS, Express.js)[cite: 1]
+- 🔍 Focused on Web Applications, RESTful APIs, Internal Tools, and SaaS Platforms[cite: 1]
+- 🔐 Strong interest in system security and reliability, having successfully identified critical IDOR vulnerabilities and implemented E2E testing[cite: 1]
+- 🌏 Based in Ho Chi Minh City, Vietnam
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Languages[cite: 1]
 
-![Python](https://skillicons.dev/icons?i=python)
-![Go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-### Backend & Database
+### Frameworks & Libraries[cite: 1]
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Postgres](https://skillicons.dev/icons?i=postgres)
+![React.js](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express.js](https://skillicons.dev/icons?i=express)
+
+### Databases & DevOps[cite: 1]
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongo)
 ![Redis](https://skillicons.dev/icons?i=redis)
-
-### Cloud & DevOps
-
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
-## Featured Projects
+## Featured Experience & Projects
 
-### Project Alpha
+### Fullstack Engineer @ SCALABLY[cite: 1]
+- **DeFi Analytics Dashboard**: Audited DeFi smart contracts and developed an analytical dashboard to visualize fund-flow logic and fee distributions[cite: 1].
+- **AI Chat Platform**: Architected an end-to-end web platform integrating AI services, enabling managers to query chat logs via a conversational interface[cite: 1].
+- **ONEPRO**: Developed an AI-generated music LINE LIFF app, alongside a comprehensive admin dashboard[cite: 1].
+- **Interactive Genealogy App**: Built a full-stack web application for user-driven family tree management[cite: 1].
 
-Production-ready platform for XYZ.
+### Software Engineer Intern @ GOTADI[cite: 1]
+- **Security & Testing**: Identified a critical IDOR vulnerability in the payment system and implemented E2E Cypress tests for UI and API validation[cite: 1].
+- **Data Engineering**: Optimized Airflow DAGs and processed booking data (SQL/Python) for weekly accounting reconciliation, delivering Power BI dashboards for financial reporting[cite: 1].
 
-**Tech:** Go, PostgreSQL, Docker
-
-### Project Beta
-
-AI-powered automation workflow.
-
-**Tech:** Python, FastAPI, OpenAI
-
-### Project Gamma
-
-Cloud-native monitoring solution.
-
-**Tech:** Kubernetes, Prometheus
+### Software Engineer Intern @ GESO[cite: 1]
+- **System Migration**: Migrated legacy PHP ERP modules to React.js and Ant Design, enhancing maintainability and UX[cite: 1].
 
 ---
 
 ## GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
 
 ---
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: hello@example.com
-- Portfolio: https://your-website.com
+- **LinkedIn**: [Khanh Tran Quoc](https://linkedin.com/in/your-linkedin-username)
+- **Email**: khanhtranquoc.dev@gmail.com[cite: 1]
