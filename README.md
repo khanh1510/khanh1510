@@ -72,17 +72,6 @@ My interests span across modern web development, backend architecture, cloud inf
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=khanh1510&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanh1510&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=khanh1510&theme=transparent&hide_border=true"
   />
 </p>
